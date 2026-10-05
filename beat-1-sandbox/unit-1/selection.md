@@ -152,5 +152,15 @@ Answer all three:
 
 ---
 
+## Acknowledgments
+
+I completed this unit with coaching from Claude (Anthropic's Claude Code, model Claude Opus 5.5).
+It walked me through setup, asked questions about each rubric check, pulled per-check evidence
+from my eval results, and in places suggested specific wording (some rubric clauses and some
+write-up sentences) that I adopted or revised. I made the rubric decisions and ran
+every eval and live run myself.
+
+---
+
 Related paths: `eval-run.txt` in this directory; your skill's files in
 `tools/issue-select/`.
